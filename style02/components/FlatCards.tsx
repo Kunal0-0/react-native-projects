@@ -5,6 +5,7 @@ export default function FlatCards() {
   return (
     <View>
       <Text style = {styles.headingText}>Flat Cards</Text>
+
       <View style = {styles.container}>
         <View style = {[styles.card, styles.cardOne]}> // to use multiple styling properties at once on an element we can use an array [property1, property2, etc...]
           <Text>Red</Text>
@@ -15,9 +16,8 @@ export default function FlatCards() {
         </View>
 
         <View style = {[styles.card, styles.cardThree]}>
-          <Text>Blue</Text>
+          <Text>Blue</Text>  
         </View>
-
       </View>
     </View>
   )
@@ -56,5 +56,5 @@ const styles = StyleSheet.create({
 
   cardThree: {
     backgroundColor: '#5DA3FA'
-  },
+  }
 })
