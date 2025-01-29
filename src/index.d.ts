@@ -1,0 +1,1 @@
+declare module '*.png' //declaring module to add images
