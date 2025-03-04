@@ -1,4 +1,4 @@
-To view all the projects switch to particular branches of any specific project you want to view.
+To view all the projects switch to particular branche of any specific project you want to view.
 
 
 
