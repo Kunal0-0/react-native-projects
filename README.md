@@ -1,3 +1,9 @@
+To view all the projects switch to particular branches of any specific project you want to view.
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
